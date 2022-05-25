@@ -1,0 +1,1 @@
+This is a project for the Front End path at scrimba.com. It is meant to practice with HTML and basic CSS styles, and positioning with flexbox.
